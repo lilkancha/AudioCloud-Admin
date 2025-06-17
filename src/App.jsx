@@ -9,7 +9,7 @@ import ListAlbum from './pages/ListAlbum/ListAlbum';
 import Sidebar from './components/Sidebar/Sidebar';
 import Navbar from './components/Navbar/Navbar';
 
-export const url = 'https://audio-cloud-backend.vercel.app/';
+export const url = 'http://localhost:4000';
 
 const App = () => {
   return (
